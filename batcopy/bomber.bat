@@ -1,0 +1,1 @@
+@py.exe E:\Python\scripts\bomber.py %*

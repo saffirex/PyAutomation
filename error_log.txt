@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "e:\Python\exceptions\boxprint_and_traceback.py", line 19, in <module>
+    boxprint(sym,height,width)
+  File "e:\Python\exceptions\boxprint_and_traceback.py", line 8, in boxprint
+    raise Exception('The width of the box must be more than 2')
+Exception: The width of the box must be more than 2
+Traceback (most recent call last):
+  File "e:\Python\exceptions\boxprint_and_traceback.py", line 19, in <module>
+    boxprint(sym,height,width)
+  File "e:\Python\exceptions\boxprint_and_traceback.py", line 6, in boxprint
+    raise Exception('Symbol is not a single character')
+Exception: Symbol is not a single character
+
+
+Traceback (most recent call last):
+  File "e:\Python\exceptions\boxprint_and_traceback.py", line 19, in <module>
+    boxprint(sym,height,width)
+  File "e:\Python\exceptions\boxprint_and_traceback.py", line 8, in boxprint
+    raise Exception('The width of the box must be more than 2')
+Exception: The width of the box must be more than 2
+Traceback (most recent call last):
+  File "e:\Python\exceptions\boxprint_and_traceback.py", line 19, in <module>
+    boxprint(sym,height,width)
+  File "e:\Python\exceptions\boxprint_and_traceback.py", line 6, in boxprint
+    raise Exception('Symbol is not a single character')
+Exception: Symbol is not a single character
+
+
